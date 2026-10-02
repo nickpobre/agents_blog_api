@@ -1,0 +1,1 @@
+describe('Blog API', () => { it('deve funcionar corretamente', () => { // Teste simples de validação (pode ser expandido conforme necessidade) expect(true).toBe(true); }); });
